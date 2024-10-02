@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=arrayWorksheet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ arrayWorksheet\ here.\r\n\r\n\ @author\ (Hassan\ Talha)\r\n\ @version\ (1/27/23)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=temp
+comment2.target=int\ total(int[])
+comment3.params=temp
+comment3.target=int\ average(int[])
+comment4.params=temp
+comment4.target=int\ max(int[])
+numComments=5

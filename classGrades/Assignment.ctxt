@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Assignment
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Assignment\ here.\r\n\r\n\ @author\ (Hassan\ Talha)\r\n\ @version\ (5/9/23)\r\n
+comment1.params=assignmentName\ grade\ category
+comment1.target=Assignment(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=int\ getCategory()
+comment3.params=
+comment3.target=double\ getGrade()
+comment4.params=
+comment4.target=java.lang.String\ getAssignmentName()
+comment5.params=category
+comment5.target=void\ setCategory(int)
+comment6.params=grade
+comment6.target=void\ setGrade(double)
+comment7.params=assignmentName
+comment7.target=void\ setAssignmentName(java.lang.String)
+numComments=8

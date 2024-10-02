@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=tic_tac_toe
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ tic_tac_toe\ here.\r\n\r\n\ @author\ (Hassan\ Talha)\r\n\ @version\ (3/22/23)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=board
+comment2.target=void\ displayBoard(char[][])
+comment3.params=board\ player
+comment3.target=boolean\ isWinner(char[][],\ char)
+comment4.params=board
+comment4.target=boolean\ isCat(char[][])
+numComments=5

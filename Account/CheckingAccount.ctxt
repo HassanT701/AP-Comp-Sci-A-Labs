@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CheckingAccount
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CheckingAccount\ here.\r\n\r\n\ @author\ (Hassan\ Talha)\r\n\ @version\ (4/11/23)\r\n
+comment1.params=name\ AccountID\ balance\ bonus
+comment1.target=CheckingAccount(java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ getBonus()
+comment3.params=bonus
+comment3.target=void\ setBonus(double)
+comment4.params=amount
+comment4.target=void\ makeDeposit(double)
+comment5.params=amount
+comment5.target=void\ withdraw(double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

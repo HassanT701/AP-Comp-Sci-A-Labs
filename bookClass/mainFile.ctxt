@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=mainFile
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ mainFile\ here.\r\n\r\n\ @author\ (Hassan\ Talha)\r\n\ @version\ (1/11/23)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=b1\ b2\ b3\ b4\ b5
+comment2.target=double\ bookClass(bookClass,\ bookClass,\ bookClass,\ bookClass,\ bookClass)
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=tempconvert
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ tempconvert\ here.\r\n\r\n\ @author\ (Hassan\ Talha)\r\n\ @version\ (11-1-22)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=temp
+comment2.target=double\ celToFah(double)
+comment3.params=temp
+comment3.target=double\ fahToCel(double)
+numComments=4

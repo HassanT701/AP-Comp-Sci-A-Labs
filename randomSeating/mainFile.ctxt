@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=mainFile
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ mainFile\ here.\r\n\r\n\ @author\ (Hassan\ Talha)\r\n\ @version\ (3-6-23)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=seats
+comment2.target=int\ randomSeat(java.util.ArrayList)
+numComments=3
